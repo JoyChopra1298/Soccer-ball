@@ -5,7 +5,7 @@ In this project we had to make a robot playing soccer ball using computer vision
 
 
 Team Member:
-Sandipan Haldar
-Joy Chopra
+Sandipan Haldar,
+Joy Chopra,
 Harshit Rajgadia
 
